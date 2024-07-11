@@ -24,7 +24,7 @@ break-word'>
 <div class=WordSection1>
 
 <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-line-height:150%'><b><span style='font-size:28.0pt;line-height:150%;mso-ansi-language:
+line-height:150%'><b><span style='font-size:40.0pt;line-height:150%;mso-ansi-language:
 EN-US'>Deep Learning for Hierarchical Arabic Text Classification<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
