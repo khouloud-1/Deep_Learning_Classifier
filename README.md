@@ -27,11 +27,6 @@ break-word'>
 line-height:150%'><b><span style='font-size:40.0pt;line-height:150%;mso-ansi-language:
 EN-US'>Deep Learning for Hierarchical Arabic Text Classification<o:p></o:p></span></b></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
-150%'><span style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
 line-height:150%'><b><span style='font-size:10.0pt;line-height:150%;mso-bidi-font-family:
